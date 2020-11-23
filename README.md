@@ -3,7 +3,7 @@
 Courses completed under TCS 
 
 Udemy: 
-Angular: The complete guide (2020 Edition)
+Angular: The complete guide (2020 Edition), 
 The web development bootcamp 2020
 
 Linked Learning:
